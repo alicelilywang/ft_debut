@@ -19,17 +19,17 @@ As someone who had no coding experience before 42, I highly recommend it - not o
 5. What makes 42 unique?
 
 42 has no classes or teachers and provides gamification in the curriculum. This allows students who struggled with traditional educational structures or rigid systems to thrive. Furthermore, in order to succeed in this school, the student must be extremely self-motivated and passionate about programming.
-42 has no tuition and has free accommodation which gives people from a diverse range of backgrounds, grades and socio-economic status an opportunity to learn programming and experience quality education, which sets 42 apart from universities and coding bootcamps. 
-42 values a flexible project-based curriculum and peer-learning, and teaches a broad range of programming languages, both low-level and high-level to provide a rounded, comprehensive understanding. Students learn the fundamentals at their own pace and schedule, and with the additional help of knowledgeable student mentors, they can master the skills needed for the industry and become fully prepared and motivated when they seek their first job.
+42 has no tuition and has free accommodation which gives people from a diverse range of backgrounds, grades and socio-economic statuses an opportunity to learn programming and experience quality education, which sets 42 apart from universities and coding bootcamps. 
+42 values a flexible project-based curriculum and peer-learning, and teaches a broad range of programming languages, both low-level and high-level to provide a rounded, comprehensive understanding. Students learn the fundamentals at their own pace and schedule, and with the additional help of other knowledgeable students, they can master the skills needed for the industry and become fully prepared and motivated when they seek their first job.
 Furthermore, it is a small school with french roots due to founder Xavier Niel's education philosophy so it feels different to traditional American schools.
 
 6. What do you think you’re learning the most at 42?
 
-It is a full on learning experience for both essential life skills and programming. Being at 42 pushes you to learn time-management, soft skills, self-discipline due to the lack of time constraints. But most of all 42 teaches me to think like a programmer and solve problems in a cohesive, logical manner.
+It is a full-on learning experience for both essential life skills and programming. Being at 42 pushes you to learn time-management, soft skills, self-discipline due to the lack of time constraints. But most of all 42 teaches me to think like a programmer and solve problems in a cohesive, logical manner.
 
 7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
 
-I will try to break down the problem into manageable chunks, or view the problem from another perspective by drawing it out or writing pseudocode. If I don't understand a particular base concept, I will try to educate myself using online resources such as StackOverflow. If I still do not understand after a considerable amount of time, I will ask someone who has already completed the problem, or has more experience in programming. 
+I will try to break down the problem into manageable chunks, or view the problem from another perspective by drawing it out or writing pseudocode. If I don't understand a particular base concept, I will try to educate myself using online resources, such as StackOverflow. If I still do not understand after a considerable amount of time, I will ask someone who has already completed the problem or has more experience in programming. 
 
 8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict dead- lines?
 
