@@ -29,7 +29,7 @@ It is a full on learning experience for both essential life skills and programmi
 
 7. Imagine (this will happen very soon in real life!), you’ve been stuck on the problem for a while and have no idea what to do - what your next steps would be?
 
-I will try to break down the problem into manageable chunks, or view the problem from another perspective by drawing it out or writing pseudocode. If I don't understand a particular base concept, I will try to educate myself using online resources such as Stack Overflow. If I still do not understand after a considerable amount of time, I will ask someone who has already completed the problem, or has more experience in programming. 
+I will try to break down the problem into manageable chunks, or view the problem from another perspective by drawing it out or writing pseudocode. If I don't understand a particular base concept, I will try to educate myself using online resources such as StackOverflow. If I still do not understand after a considerable amount of time, I will ask someone who has already completed the problem, or has more experience in programming. 
 
 8. How will you ensure that your personal level of motivation remains high on a daily basis to complete at least 1 level per month without the Piscine pressure and strict dead- lines?
 
@@ -41,7 +41,7 @@ I will remind myself that I am here to learn and grow as both a future programme
 
 10. How do the internships work? Is it mandatory that you have to reach a certain level before leaving on an internship or can you validate it anytime you find one?
 
-Once a student reaches the first third of their learning experienc (ie. at least level 7 on the curriculum), they are encouraged to find an internship through networking with companies through get-togethers, hackathons and conferences in order to advance their curriculum. However, if a student feels ready, they have the freedom to find an internship on their own accord and leave at any time. Experiencing company projects in a workplace environment helps students acquire essential skills to implement in their future programming jobs.
+Once a student reaches the first third of their learning experience (ie. at least level 7 on the curriculum), they are encouraged to find an internship through networking with companies through get-togethers, hackathons and conferences in order to advance their curriculum. However, if a student feels ready, they have the freedom to find an internship on their own accord and leave at any time. Experiencing company projects in a workplace environment helps students acquire essential skills to implement in their future programming jobs.
 
 11. How does 42 help you adapt to a work place?
 
