@@ -14,7 +14,7 @@ Learning to learn, pursuit of excellence, respecting others, creativity and pass
 
 4. If somebody is thinking of going to 42, but has no coding experience - do you really think it’s worth their time?
 
-As someone who had no coding experience before 42, I highly recommend it - not only am I learning to code at an accelerated pace, I'm also learning many other useful skills such as confronting fears of failure and figuring problems out on my own. It is also a place to meet a diverse range of people of all ages, ethnicities and stories so it's a great place to meet people and make friends.
+As someone who had no coding experience before 42, I highly recommend it - not only am I learning programming at an accelerated pace, I'm also learning many other useful skills such as confronting fears of failure and figuring problems out on my own. It is also a place to meet a diverse range of people of all ages, ethnicities and background stories so it's a great place to meet interesting, passionate people and make friends.
 
 5. What makes 42 unique?
 
