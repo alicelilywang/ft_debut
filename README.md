@@ -1,3 +1,5 @@
+# ft_debut
+
 1. In the most concise way possible, answer this question, what is 42? How would you describe 42 to someone who doesn’t know what 42 is?
 
 42 is an innovative, non-profit, tuition-free software engineering school that has no teachers and no classes, and the students can complete projects at their own pace with the help of 42's peer-learning pedagogy. 
